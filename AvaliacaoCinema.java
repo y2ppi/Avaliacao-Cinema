@@ -15,7 +15,7 @@ public class AvaliacaoCinema {
             System.out.println("=== Bem-vindo à nossa avaliação! ===\n");
             System.out.print("Digite sua idade: ");
             idade = sc.nextInt();
-            sc.nextLine(); // Consumir quebra de linha residual
+            sc.nextLine(); 
 
             System.out.println("Como você avalia nosso cinema?");
             System.out.println("Digite A para Ótimo");
